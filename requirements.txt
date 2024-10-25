@@ -1,1 +1,10 @@
 Flask==3.0.3
+transformers==4.45.2
+tf_keras==2.17.0
+tokenizers==0.20.1
+torch==2.5.0
+torchaudio==2.5.0
+torchvision==0.20.0
+tensorflow-intel==2.17.0
+numpy==1.26.4
+huggingface-hub==0.26.1
