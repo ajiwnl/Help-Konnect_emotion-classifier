@@ -1,4 +1,4 @@
-# Help-Konnect Emotion Classifier utilizing BERT-based hugging face model Emotion Classifier API
+# Help-Konnect Emotion Classifier API utilizing BERT-based hugging face model
 
 This is a Flask-based API that uses the `bert-base-go-emotion` model from Hugging Face's Transformers library to classify text into 28 different emotion categories. It provides an endpoint to predict the emotions conveyed in a given text input.
 
